@@ -1,0 +1,11 @@
+@import './reset.css';
+@import './form.css';
+
+.container {
+    padding: 1.24em;
+    height: 100%;
+}
+
+body {
+    height: 100vh;
+}
